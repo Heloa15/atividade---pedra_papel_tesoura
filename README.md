@@ -11,7 +11,8 @@ Atividade de front-end em formato de jogo e com fork
 - Execute o index.html com o Live Server
 
 ## Print
-![Print](./images/print.png)
+<img width="375" height="778" alt="image" src="https://github.com/user-attachments/assets/800ac2da-9ef8-4d5f-a62d-f3caafb734b1" />
+
 ## Sobre o jogo
 
 - > O projeto é uma versão divertida do clássico Pedra, Papel e Tesoura, adicionando também as opções Lagarto e Spock, inspiradas na famosa variação popularizada pela série The Big Bang Theory.
